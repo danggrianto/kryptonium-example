@@ -1,0 +1,18 @@
+{
+    "application": {
+        "protocol": "http",
+        "url": "web",
+        "port": 5000
+    },
+    "selenium": {
+        "remote": true,
+        "browser": "FIREFOX",
+        "version": "ANY",
+        "platform": "ANY",
+        "hub" : {
+          "provider": "docker",
+          "url": "selenium",
+          "port": "4444"
+        }
+    }
+}
