@@ -1,0 +1,3 @@
+kryptonium==0.1.4
+nose==1.3.7
+selenium==2.47.3
