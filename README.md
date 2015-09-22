@@ -4,4 +4,4 @@ example for [blog](https://medium.com/p/bca7bc6aeae3)
 
     cd app
     pip install -r requirements.txt
-    
+    python server.py
